@@ -72,4 +72,15 @@ Balanced sound profile suited for music, podcasts, and general use.
 - Use cases can:
   - Inform FAQ content below
   - Feed internal links to related categories or guides
-- Avoid creating separate PDPs for minor u
+- Avoid creating separate PDPs for minor use-case variations
+
+---
+
+## Why This Section Matters
+
+Missing or weak use cases often result in:
+- Poor intent alignment
+- Lower engagement from qualified users
+- Increased bounce rates from mismatched traffic
+
+Clear use cases improve **relevance, confidence, and conversion quality**.
